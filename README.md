@@ -4,14 +4,19 @@
 
 This is my first comment. 
 
+
 more random things
 
-a tertiary thing with stuff
+more stuff is here
 
+a tertiary thing with stuff
+here are some edits from github.com
 im adding duck too
 
-here are some edits from github.com
 
 hola hello
 
 more changes here
+more changes here
+hi hello 
+a ton of new changes
